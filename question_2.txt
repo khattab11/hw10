@@ -1,0 +1,16 @@
+JAVASCRIPT
+a = ["john", "mike", "susan", "matt", "joe", "larry", "ken", "samantha", "jenny", "Sara", "henry"]
+var i = a.length -3;
+while(i > 0)
+{
+	console.log((a[i]).toUpperCase());
+	i = i-3;
+}
+================================
+Ruby
+a = ["john", "mike", "susan", "matt", "joe", "larry", "ken", "samantha", "jenny", "Sara", "henry"]
+ i = a.length - 3
+while(i > 0)
+	puts a[i].upcase
+	i = i-3
+end
