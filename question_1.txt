@@ -11,7 +11,7 @@ while(i < a.length)
 =================================
 
 Ruby
-------
+-----------
 
 a = ["john", "mike", "susan", "matt", "joe", "larry", "ken", "samantha", "jenny", "Sara", "henry"]
 
